@@ -7,7 +7,7 @@ I developed a robust Retrieval-Augmented Generation (RAG) system using Deepseek,
 
 
 
-A powerful **Retrieval-Augmented Generation (RAG)** system that enables seamless interaction with local PDF documents. Built using **Deepseek**, **LangChain**, and **Streamlit**, this application allows users to ask complex questions and receive accurate answers, all in real-time.
+
 
 ## 🚀 Project Description
 
