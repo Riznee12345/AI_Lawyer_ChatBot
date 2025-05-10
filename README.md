@@ -8,7 +8,6 @@ I developed a robust Retrieval-Augmented Generation (RAG) system using Deepseek,
 
 
 
-
 ## 🚀 Project Description
 
 This project integrates **Deepseek-r1**, a highly capable open-source LLM (via Ollama), into a **LangChain-based RAG pipeline**. The system retrieves relevant context from user-uploaded PDFs and generates intelligent responses using the LLM. The entire experience is wrapped in an easy-to-use **Streamlit** interface, enabling natural conversation with your documents.
