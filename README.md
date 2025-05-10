@@ -7,7 +7,7 @@ I developed a robust Retrieval-Augmented Generation (RAG) system using Deepseek,
 
 ## 🧠 Key Features
 
-- 💬 **Ask Questions**: Chat with your own PDFs in real-time.
+- 💬 **Ask Questions**: Chat with your PDFs in real-time.
 - 🔍 **Contextual Retrieval**: Uses advanced RAG techniques to fetch relevant information before answering.
 - 🧱 **Deepseek-r1 LLM**: Leverages Ollama’s local LLM with strong reasoning and comprehension.
 - ⚡ **LangChain Integration**: Powers the logic behind document parsing and retrieval.
