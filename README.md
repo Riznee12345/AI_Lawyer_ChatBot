@@ -29,6 +29,5 @@ Make sure you have the following installed:
 - Ollama installed and Deepseek model pulled (`ollama pull deepseek`)
 
 
-
 # Install dependencies
 pip install -r requirements.txt
