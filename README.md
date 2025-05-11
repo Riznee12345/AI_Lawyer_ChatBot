@@ -30,7 +30,6 @@ Make sure you have the following installed:
 
 
 # Clone the repository
-git clone htt
 
 
 
