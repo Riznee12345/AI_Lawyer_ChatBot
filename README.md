@@ -32,6 +32,5 @@ Make sure you have the following installed:
 # Clone the repository
 
 
-
 # Install dependencies
 pip install -r requirements.txt
