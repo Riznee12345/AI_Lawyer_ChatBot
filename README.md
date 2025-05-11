@@ -29,7 +29,7 @@ Make sure you have the following installed:
 - Ollama installed and Deepseek model pulled (`ollama pull deepseek`)
 
 
-# Clone the repository
+# Clone th
 
 
 # Install dependencies
