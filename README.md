@@ -30,7 +30,7 @@ Make sure you have the following installed:
 
 
 # Clone the repository
-git clone https://github.com/your
+git clone https://github.c
 
 
 
