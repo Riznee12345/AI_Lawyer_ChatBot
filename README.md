@@ -31,7 +31,6 @@ Make sure you have the following installed:
 
 # Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
-cd your
 
 # Install dependencies
 pip install -r requirements.txt
